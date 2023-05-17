@@ -61,7 +61,7 @@ author:
   bio    : "A 3D Generlist interested in procedural workflows for game creation!"
   links:
     - label: "Resume"
-      icon: "fa fa-file-pdf-o"
+      icon: "fa-solid fa-file"
       url: "/assets/cv_savidu.pdf"
     - label: "Art Station"
       icon: "fas fa-fw fa-link"
@@ -75,15 +75,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Resume"
+      icon: "fa-solid fa-file"
+      url: "/assets/cv_savidu.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/saviduhk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/saviduhk/"
 
 defaults:
   # _posts
