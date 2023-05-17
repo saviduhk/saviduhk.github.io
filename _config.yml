@@ -61,7 +61,7 @@ author:
   bio    : "A 3D Generlist interested in procedural workflows for game creation!"
   links:
     - label: "Resume"
-      icon: "fab fa-address-card"
+      icon: "fa fa-file-pdf-o"
       url: "/assets/cv_savidu.pdf"
     - label: "Art Station"
       icon: "fas fa-fw fa-link"
