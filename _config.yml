@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wandering The Surreal
+title: Savidu Karunaratne
 email: saviduhk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Savidu Karunaratne's portfolio
+  Savidu Karunaratne's portfolio and blog
 twitter_username: username
 github_username: saviduhk
 minimal_mistakes_skin: dark
@@ -61,8 +61,8 @@ author:
   bio    : "A 3D Generlist interested in procedural workflows for game creation!"
   links:
     - label: "Resume"
-      icon: "fab fa-fw fa-address-card"
-      url: "https://twitter.com/"
+      icon: "fab fa-address-card"
+      url: "/assets/cv_savidu.pdf"
     - label: "Art Station"
       icon: "fas fa-fw fa-link"
       url: "https://www.artstation.com/saviduhk"
