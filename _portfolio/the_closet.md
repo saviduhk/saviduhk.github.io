@@ -29,5 +29,14 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
 
-Check out,
-[Tom]({% link https://www.artstation.com/tomt0m20 %})
+Check out the rest of the team,
+[Thomas](https://www.artstation.com/tomt0m20)
+[Charlotte](https://www.artstation.com/charlottecousins)
+[Linus]
+[Margaret](https://maggie_peek.artstation.com/)
+[Emily](https://emily_rose_grindle.artstation.com/)
+[Daisy](https://www.artstation.com/triggerfish)
+[Jamie](https://www.artstation.com/whitepaint)
+[Molly](https://www.instagram.com/mollyelliott_anim/)
+[Oliver](https://www.artstation.com/osharpe)
+[Joe](https://www.artstation.com/joedoesanimation)
