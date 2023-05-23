@@ -3,7 +3,7 @@ title: "The Closet"
 excerpt: "Final Major Collaboration Project"
 header:
   image: /assets/images/closet/Bed_Beauty.jpg
-  teaser: /assets/images/closet/Bed_Beauty-th.jpg
+  teaser: /assets/images/closet/Bed_Beauty.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -13,13 +13,13 @@ sidebar:
     text: "Models, Textures & Unreal Shader setup "
 gallery:
   - url: /assets/images/closet/Chair_Beauty.jpg
-    image_path: assets/images/closet/Chair_Beauty-th.jpg
+    image_path: assets/images/closet/Chair_Beauty.jpg
     alt: "placeholder image 1"
   - url: /assets/images/closet/Door_Beauty.jpg
-    image_path: assets/images/closet/Door_Beauty-th.jpg
+    image_path: assets/images/closet/Door_Beauty.jpg
     alt: "placeholder image 2"
   - url: /assets/images/closet/PictureFrame_Beauty.jpg
-    image_path: assets/images/closet/PictureFrame_Beauty-th.jpg
+    image_path: assets/images/closet/PictureFrame_Beauty.jpg
     alt: "placeholder image 3"
 ---
 
