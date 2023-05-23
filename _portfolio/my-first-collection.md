@@ -12,14 +12,14 @@ sidebar:
   - title: "Responsibilities"
     text: "Models, Textures & Unreal Shader setup "
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/closet/Chair_Beauty.jpg
+    image_path: assets/images/closet/Chair_Beauty-th.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/closet/Door_Beauty.jpg
+    image_path: assets/images/closet/Door_Beauty-th.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/closet/PictureFrame_Beauty.jpg
+    image_path: assets/images/closet/PictureFrame_Beauty-th.jpg
     alt: "placeholder image 3"
 ---
 
