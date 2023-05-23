@@ -3,7 +3,7 @@ title: "The Closet"
 excerpt: "Final Major Collaboration Project"
 header:
   image: /assets/images/closet/Bed_Beauty.jpg
-  teaser: /assets/images/closet/Bed_Beauty.jpg-th.jpg
+  teaser: /assets/images/closet/Bed_Beauty-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
