@@ -2,11 +2,11 @@
 title: "The Closet"
 excerpt: "Final Major Collaboration Project"
 header:
-  image: /assets/images/closet/Bed_Beauty.jpg
-  teaser: /assets/images/closet/Bed_Beauty.jpg
+  image: /assets/images/closet/The_Closet-th.jpg
+  teaser: /assets/images/closet/The_Closet-th.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/closet/The_Closet-th.jpg
     image_alt: "logo"
     text: "Environment & Technical Artist"
   - title: "Responsibilities"
