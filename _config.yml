@@ -68,6 +68,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A 3D Generlist interested in procedural workflows for game creation!"
   links:
+    - label: "Latest Showreel"
+      icon: "fas fa-fw fa-link"
+      url: "https://vimeo.com/828943674"
     - label: "Resume"
       icon: "fab fa-fw fa-file"
       url: "/assets/cv_savidu.pdf"
