@@ -3,9 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-PVofD2A9t8?controls=0" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/828943674?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Savidu June 2023 Graduate Showreel"></iframe>
+<br>
 
 Welcome to my portfolio! I am a graduate 3D artist from the University of South Wales, specializing in hard surface modeling. I am currently seeking a Junior 3D role that allows me to utilize my expertise in this area while also continuing to expand my knowledge in procedural tool creation using Houdini.
 
